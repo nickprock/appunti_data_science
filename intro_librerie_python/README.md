@@ -11,7 +11,7 @@ Ci sarà un ulteriore notebook con qualche semplice esercizio da svolgere.
 
 ---
 
-Thanks to MJ Bahmani
+Thanks to MJ Bahmani, his work inspired me.
 
 project: *10-steps-to-become-a-data-scientist*
 
