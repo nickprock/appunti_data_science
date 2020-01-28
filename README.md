@@ -6,15 +6,6 @@ Materiale per il corso di Data Science, in particolare per i moduli assegantimi:
 * Introduzione alle librerie Python per la Data Science
 * Introduzione al Machine Learning
 
----
-
-Thanks to MJ Bahmani
-
-project: *10-steps-to-become-a-data-scientist*
-
-url: https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/
-
----
 
 ---
 
