@@ -6,6 +6,14 @@ Materiale per il corso di Data Science, in particolare per i moduli assegantimi:
 * Introduzione alle librerie Python per la Data Science (4h)
 * Introduzione al Machine Learning (10h)
 
+---
+Il corso è organizzato e diretto da [Goodwill](https://www.goodwillteam.it/).
+
+<br>
+
+![Goodwill](https://www.goodwillteam.it/wp-content/uploads/2017/09/Logo-Goodwill-Cosenza.png)
+
+<br>
 
 ---
 
