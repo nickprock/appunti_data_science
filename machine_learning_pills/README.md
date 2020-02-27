@@ -4,11 +4,12 @@ Il modulo dura 10 ore di lezione frontale, si focalizza sulle fasi di Modelling 
 In particolare verranno trattati i seguenti argomenti:
 * Breve introduzione al Machine Learning
 * Approccio supervisionato
-	* model ...
-	* model ...
+	* Regression
+	* Classification
 * Approccio non supervisionato
-	* model...
-	* model...
+	* Clustering
+	* Association Rules
+	* Dimensionality Reduction
 * Esercizio finale
 
 ---
@@ -16,6 +17,8 @@ In particolare verranno trattati i seguenti argomenti:
 Link di approfondimento:
 
 [Machine Learning - Corso Base in Italiano a cura di Piero Savastano](https://www.youtube.com/watch?v=U78wETHkBKU&list=PLa-sizbCyh93evwIevvnjWFEH94N5giIG)
+
+[AI Adventures](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 
 ---
 
