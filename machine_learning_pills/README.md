@@ -4,6 +4,16 @@ Il modulo dura 10 ore di lezione frontale, si focalizza sulle fasi di Modelling 
 
 Visto il poco tempo a disposizione le lezioni si focalizzeranno su esempi e sull'utilizzo di scikit-learn piuttosto che sulla parte teorica.
 
+I notebook serviranno anche da "riassunto" di quanto appreso fino ad ora negli altri moduli del corso:
+* business understanding
+* data collection
+* data understanding
+* data preprocessing
+
+Qui ci occuperemo di:
+* modeling
+* evaluation
+
 In particolare verranno trattati i seguenti argomenti:
 * Breve introduzione al Machine Learning
 * Approccio supervisionato
