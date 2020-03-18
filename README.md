@@ -8,7 +8,7 @@ Prerequisito per il corso è avere installata la distribuzione [Anaconda Python]
 
 ### WORK IN PROGRESS
 
-Il modulo sul Machine Learning è ancora in fase di programmazione, sarà rilasciato entro la prima lezione che è a fine marzo 2020.
+Il modulo sul Machine Learning è ancora in fase di programmazione, sarà rilasciato entro la prima lezione.
 
 <br>
 
