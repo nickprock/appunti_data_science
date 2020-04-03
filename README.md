@@ -6,9 +6,6 @@ Materiale per il corso di Data Science, in particolare per i moduli:
 
 Prerequisito per il corso è avere installata la distribuzione [Anaconda Python](https://www.anaconda.com/distribution/) o un account Google per utilizzare [Colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
-### WORK IN PROGRESS
-
-Il modulo sul Machine Learning è ancora in fase di programmazione, sarà rilasciato entro la prima lezione.
 
 <br>
 

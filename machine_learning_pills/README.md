@@ -24,7 +24,9 @@ In particolare verranno trattati i seguenti argomenti:
 	* Clustering
 	* Association Rules
 	* Dimensionality Reduction
-* Esercizio finale
+* Bonus:
+	* AutoMl con H2O
+	* Classificare le notizie con Keras
 
 <br>
 
@@ -41,6 +43,8 @@ Link di approfondimento:
 [AI Adventures](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 
 [Scikit-learn Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+[Italian Association for Machine Learning - Blog](https://iaml.it/blog)
 
 ---
 
