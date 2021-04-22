@@ -10,7 +10,7 @@ Prerequisito per il corso è avere installata la distribuzione [Anaconda Python]
 
 Successivamente mi è capitato di preparare materiale per eventi/seminari/letture... per non frammentare troppo sto aggiungendo a questo repo.
 
-* Hands-on Imbalanced Classification
+* Hands-on Imbalanced Classification (2h)
 
 <br>
 
