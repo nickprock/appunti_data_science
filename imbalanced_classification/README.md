@@ -7,7 +7,6 @@ Materiale per il seminario tenuto presso il [Master di 2° livello in Data Scien
 * Notebooks:
   * Threshold-Moving
   * Undersampling e Oversampling con Imblearn
-  * Class weights e altri metodi
 
 <br>
 
