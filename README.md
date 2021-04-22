@@ -6,6 +6,11 @@ Materiale per il corso di Data Science, in particolare per i moduli:
 
 Prerequisito per il corso è avere installata la distribuzione [Anaconda Python](https://www.anaconda.com/distribution/) o un account Google per utilizzare [Colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
+### Aggiornamento
+
+Successivamente mi è capitato di preparare materiale per eventi/seminari/letture... per non frammentare troppo sto aggiungendo a questo repo.
+
+* Hands-on Imbalanced Classification
 
 <br>
 
