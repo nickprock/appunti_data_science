@@ -1,5 +1,5 @@
 # Corso di Data Science
-Materiale per il corso di Data Science, in particolare per i moduli:
+Materiale per il corso di Data Science (2020), in particolare per i moduli:
 
 * Introduzione alle librerie Python per la Data Science (4h)
 * Introduzione al Machine Learning (10h)
@@ -10,7 +10,7 @@ Prerequisito per il corso è avere installata la distribuzione [Anaconda Python]
 
 Successivamente mi è capitato di preparare materiale per eventi/seminari/letture... per non frammentare troppo sto aggiungendo a questo repo.
 
-* Hands-on Imbalanced Classification (2h)
+* Hands-on Imbalanced Classification (2h) - Master Data Science UniCal (2021)
 
 <br>
 
