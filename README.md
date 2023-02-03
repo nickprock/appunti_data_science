@@ -23,8 +23,9 @@ Il corso è organizzato e diretto da [Goodwill](https://www.goodwillteam.it/).
 
 Successivamente mi è capitato di preparare materiale per eventi/seminari/letture... per non frammentare troppo sto aggiungendo a questo repo.
 
-* Hands-on Imbalanced Classification (2h) - Master Data Science UniCal (2021)
-* Appunti sulle Time Series - una serie di notebook con appunti su argomenti vari riguardanti le serie storiche (2019)
+* ***A gentle introduction to eXplainable A.I. (4h)*** - Master Data Science UniCal (2022)
+* ***Hands-on Imbalanced Classification (2h)*** - Master Data Science UniCal (2021)
+* ***Appunti sulle Time Series*** - una serie di notebook con appunti su argomenti vari riguardanti le serie storiche (2019)
 
 <br>
 
