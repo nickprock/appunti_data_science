@@ -2,6 +2,8 @@
 
 Questi notebook sono stati usati come esercitazione in aula per una lezione di 4 ore del Master di secondo livello di Data Science dell'Unical.
 
+[Slides del seminario](https://github.com/nickprock/tech-talks/blob/main/slides/MasterDataScience_2022_XAI.pdf)
+
 ## References and interesting links
 * Explainable AI with Python. L. Gianfagna, A. Di Cecco, Springer
 * ["eXplainable AI e fairness"](https://www.facebook.com/demAIcommunity/videos/explainable-ai-e-fairness/313533757259947) meetup di Di Cecco e Gianfagna per Democratize A.I
