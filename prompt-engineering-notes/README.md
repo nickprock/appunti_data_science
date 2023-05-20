@@ -20,7 +20,7 @@ cohere_key: your_api_key
 The goal isn't to suggest the better service but to compare the services, they are very similar, and to helping developers choose the one best suited to their problem.
 
 ## The Course
-I ["ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) the course and found it very interesting, I recommend it.
+I take ["ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) and found it very interesting, I recommend it.
 
 <br>
 
