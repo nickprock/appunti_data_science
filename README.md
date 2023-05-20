@@ -26,6 +26,9 @@ Successivamente mi è capitato di preparare materiale per eventi/seminari/lettur
 * ***A gentle introduction to eXplainable A.I. (4h)*** - Master Data Science UniCal (2022)
 * ***Hands-on Imbalanced Classification (2h)*** - Master Data Science UniCal (2021)
 * ***Appunti sulle Time Series*** - una serie di notebook con appunti su argomenti vari riguardanti le serie storiche (2019)
+* ***Appunti su SpaCy*** - serie di notebook dal corso ufficiale SpaCy e altre cose che ho imparato
+* ***Comparazione tra OpenAI e Cohere*** - notebook dal corso [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) arricchiti con i test in Cohere
+* ***Tips & Tricks*** - Contenitore di appunti vari e disordinati
 
 <br>
 
