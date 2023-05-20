@@ -24,6 +24,6 @@ I ["ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI](ht
 
 <br>
 
-![img]()
+![img](https://github.com/nickprock/appunti_data_science/blob/master/prompt-engineering-notes/img.png)
 
 <br>
