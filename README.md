@@ -28,7 +28,7 @@ Successivamente mi è capitato di preparare materiale per eventi/seminari/lettur
 * [***Appunti sulle Time Series***](https://github.com/nickprock/appunti_data_science/tree/master/appunti-time-series) - una serie di notebook con appunti su argomenti vari riguardanti le serie storiche (2019)
 * [***Appunti su SpaCy***](https://github.com/nickprock/appunti_data_science/tree/master/spacy) - serie di notebook dal corso ufficiale SpaCy e altre cose che ho imparato
 * [***Comparazione tra OpenAI e Cohere***](https://github.com/nickprock/appunti_data_science/tree/master/prompt-engineering-notes) - notebook dal corso [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) arricchiti con i test in Cohere
-* [***Appunti sulla Semnatic Search: in particolare con Hugging Face, Haystack, Qdrant***](https://github.com/nickprock/appunti_data_science/tree/master/semantic-search)
+* [***Appunti sulla Semnatic Search***](https://github.com/nickprock/appunti_data_science/tree/master/semantic-search) - In particolare utilizzando Hugging Face, Haystack, Qdrant
 * [***Tips & Tricks***](https://github.com/nickprock/appunti_data_science/tree/master/tips_and_tricks) - Contenitore di appunti vari e disordinati
 
 <br>
