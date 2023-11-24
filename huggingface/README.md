@@ -1,5 +1,0 @@
-# HuggingFace
-
-## Appunti sparsi
-
-WIP
