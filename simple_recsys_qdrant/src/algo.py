@@ -38,6 +38,10 @@ def step3_get_recommendation(client: QdrantClient, collection_name:str, key_filt
     for p in target_user_items_info:
         prefetches.append(models.Prefetch(
                 query=p.vector,
+                filter=models.Filter(must=[models.FieldCondition(
+                    key=key_filter,
+                    match=models.MatchAny(any=items_from_similar_users)
+                    )]),
                 limit=limit,
             ))
     
@@ -45,10 +49,6 @@ def step3_get_recommendation(client: QdrantClient, collection_name:str, key_filt
         collection_name=collection_name,
         prefetch=prefetches,
         query=models.FusionQuery(fusion=models.Fusion.RRF),
-        query_filter=models.Filter(must=[models.FieldCondition(
-        key=key_filter,
-        match=models.MatchAny(any=items_from_similar_users)
-            )])
     ).points
 
     payloads = []
