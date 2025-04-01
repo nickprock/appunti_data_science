@@ -1,0 +1,4 @@
+faker
+qdrant_client
+fastembed
+pandas
