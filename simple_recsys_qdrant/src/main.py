@@ -44,7 +44,7 @@ upsert_ratings_to_qdrant(
 )
 
 ##########
-# INIZIA ALGO
+# START ALGO
 ##########
 
 user_points = step1_find_similar_user(
@@ -68,12 +68,17 @@ target_user_items = step2_retrieve_items_from_users_ratings(
     ),
 )
 
+filtered_items_from_similar_users = [
+    x for x in items_from_similar_users if x not in target_user_items
+]
+
 recommendations = step3_get_recommendation(
     client=client,
     collection_name="movies",
     key_filter="index",
     target_user_items=target_user_items,
-    items_from_similar_users=items_from_similar_users,
+    items_from_similar_users=filtered_items_from_similar_users,
 )
 
-df = pd.DataFrame(recommendations).drop(columns=["index"], inplace=True)
+df = pd.DataFrame(recommendations)
+df.drop(columns=["index"], inplace=True)
